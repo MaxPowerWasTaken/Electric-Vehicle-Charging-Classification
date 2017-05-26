@@ -1,0 +1,24 @@
+Feature,XGB Reported Importance
+observed Delta Hours 0.5,340
+observed,289
+mean_charge_by_intvl,236
+Mean observed,199
+observed Delta Hours 24,186
+observed Delta Hours 1,133
+Mean observed Delta Hours 12,116
+observed Delta Hours 2,116
+observed Delta Hours 12,107
+StDev observed Delta Hours 0.5,105
+observed Delta Hours 1.5,92
+Mean observed Delta Hours 0.5,91
+StDev observed Delta Hours 24,89
+StDev observed,84
+StDev observed Delta Hours 12,79
+Mean observed Delta Hours 24,73
+Predicted EV by House,66
+Mean observed Delta Hours 1,64
+StDev observed Delta Hours 2,58
+StDev observed Delta Hours 1,45
+StDev observed Delta Hours 1.5,38
+Mean observed Delta Hours 2,35
+Mean observed Delta Hours 1.5,28
